@@ -2,3 +2,20 @@
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
+.header {
+    background-color: #ff50ff80;
+    color: #0000ff;
+}
+
+.title {
+    background-color: #00ff0065;
+}
+
+li, p {
+    color: #8000ff;
+}
+
+img {
+    height: auto;
+    width: 400px;
+}
